@@ -1,0 +1,20 @@
+<svg width="336" height="67" viewBox="0 0 336 67" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="336" height="67" fill="#E5E5E5"/>
+<g clip-path="url(#clip0_0_1)">
+<rect width="1920" height="1100" transform="translate(-793 -973)" fill="url(#paint0_linear_0_1)"/>
+<text fill="#97D4D9" xml:space="preserve" style="white-space: pre" font-family="DIN Rundschrift" font-size="100" letter-spacing="0em"><tspan x="168.168" y="66.85">E</tspan></text>
+<text fill="#EFC764" xml:space="preserve" style="white-space: pre" font-family="DIN Rundschrift" font-size="100" letter-spacing="0em"><tspan x="128.227" y="66.85">L</tspan><tspan x="320.707" y="66.85">I</tspan></text>
+<text fill="#A45A49" xml:space="preserve" style="white-space: pre" font-family="DIN Rundschrift" font-size="100" letter-spacing="0em"><tspan x="88.2852" y="66.85">L</tspan><tspan x="274.223" y="66.85">N</tspan></text>
+<text fill="#B3DFD3" xml:space="preserve" style="white-space: pre" font-family="DIN Rundschrift" font-size="100" letter-spacing="0em"><tspan x="39.2617" y="66.85">A</tspan><tspan x="254.887" y="66.85">I</tspan></text>
+<text fill="#FEAFBE" xml:space="preserve" style="white-space: pre" font-family="DIN Rundschrift" font-size="100" letter-spacing="0em"><tspan x="-4" y="66.85">B</tspan><tspan x="208.402" y="66.85">R</tspan></text>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="383" y1="1008.33" x2="1628.62" y2="136.699" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2325"/>
+<stop offset="1" stop-color="#8E5D52"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="1100" fill="white" transform="translate(-793 -973)"/>
+</clipPath>
+</defs>
+</svg>
